@@ -1,0 +1,14 @@
+{
+  "type":"module",
+  "name": "wild-horizon",
+  "version": "1.0.0",
+  "description": "a dataset about interesting places",
+  "main": "server.js",
+  "scripts": {
+   
+    "start": "node server.js"
+  },
+  "author": "Bhavesh",
+  "license": "ISC"
+}
+ 
